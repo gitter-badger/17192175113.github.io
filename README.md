@@ -1,5 +1,7 @@
 # jor1k
 
+[![Join the chat at https://gitter.im/kkweblinux/community](https://badges.gitter.im/kkweblinux/community.svg)](https://gitter.im/kkweblinux/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![jor1k](http://jor1k.com/images/jor1k2.gif)
 
 jor1k is a OpenRISC 1000 emulator written in JavaScript running Linux. It runs in almost any modern web browser. 
